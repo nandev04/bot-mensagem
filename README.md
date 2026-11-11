@@ -114,8 +114,3 @@ Feito originalmente para automatizar a retirada semanal de senha de visita num g
 - 🛡️ **SmartScreen / antivírus** podem alertar (é um `.exe` não assinado): *Mais informações → Executar assim mesmo*.
 - 📵 **Uso responsável:** é um userbot; respeite os [Termos de Serviço do Telegram](https://telegram.org/tos). Envios em massa ou spam podem resultar em restrições na conta.
 
----
-
-## 📝 Licença
-
-MIT — use, modifique e compartilhe à vontade.
