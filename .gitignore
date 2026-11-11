@@ -1,0 +1,7 @@
+.env
+config.json
+respostas.txt
+build/
+dist/
+*.spec
+__pycache__/
