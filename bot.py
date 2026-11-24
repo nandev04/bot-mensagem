@@ -11,8 +11,8 @@ import config
 from credenciais import API_ID, API_HASH
 from relogio import agora, fmt, log, proximo_disparo, sincronizar
 
-TENTATIVAS = 60
-INTERVALO_TENTATIVA = 2.0  # s
+TENTATIVAS = 1200
+INTERVALO_TENTATIVA = 0.1  # s
 VERIFICACAO = 0.01         # s entre checagens do horário
 RESSINCRONIZAR = 600       # s entre sincronizações NTP
 
